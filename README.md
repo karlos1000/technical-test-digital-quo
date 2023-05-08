@@ -1,6 +1,7 @@
 ## Prueba técnica de Digital Quo, usando Node y express que resuelve lo siguiente:
 
-- Realizar una API que reciba 2 variables: initialNumber y finalNumber (Los números deben ser enteros positivos e initialNumber no puede ser mayor a finalNumber) para los cuales se debe regresar la siguiente información:
+Realizar una API que reciba 2 variables: initialNumber y finalNumber (Los números deben ser enteros positivos e initialNumber no puede ser mayor a finalNumber) para los cuales se debe regresar la siguiente información:
+
 - Números primos que se encuentran en el rango entre initialNumber y finalNumber.(tomando en cuenta InitialNumber y finalNumber).
 - Cantidad de números que se encuentran entre initialNumber y finalNumber (sin tomar en cuenta estos últimos).
 - Suma de todos los números consecutivos que se encuentran dentro de initialNumber y finalNumber (sin tomar en cuenta estos últimos).
